@@ -13,7 +13,7 @@ This project demonstrates practical SOC analyst skills including log ingestion, 
 
 📺 **Demo Video:** [Watch the BarnesLab SOC Build Walkthrough on YouTube](#) *(link coming soon)*
 
-➡️ **Prerequisite:** [BarnesLab Active Directory Home Lab](https://github.com/lbarnes86/barneslab-active-directory-lab) must be completed first.
+➡️ **Prerequisite:** [BarnesLab Active Directory Home Lab](https://github.com/lbarnes86/barneslab-active-directory-lab)
 
 ---
 
