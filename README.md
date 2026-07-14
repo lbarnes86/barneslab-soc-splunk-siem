@@ -1,6 +1,6 @@
 # BarnesLab SOC — Splunk SIEM + Attack Detection Lab
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-VMware%20Workstation-blue)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20Free-FF5733?logo=splunk)
 ![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
