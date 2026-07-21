@@ -11,7 +11,7 @@ BarnesLab SOC is Phase 2 of the BarnesLab home lab series. This project extends 
 
 This project demonstrates practical SOC analyst skills including log ingestion, event correlation, alert development, dashboard creation, and threat detection — all in a self-built lab environment.
 
-📺 **Demo Video:** [Watch the BarnesLab SOC Build Walkthrough on YouTube](https://youtu.be/MdgM8zBHafw) *(link coming soon)*
+📺 **Demo Video:** [Watch the BarnesLab SOC Build Walkthrough on YouTube](https://youtu.be/MdgM8zBHafw)
 
 ➡️ **Prerequisite:** [BarnesLab Active Directory Home Lab](https://github.com/lbarnes86/barneslab-active-directory-lab)
 
